@@ -1,6 +1,6 @@
 ### K - MEANS
 
-Dossier contenant deux scripts:
+Dossier contenant trois scripts:
 
   K-means_gen.py: Une script générique de la méthode de clustering K-Means sur un jeu de données aléatoire
   
